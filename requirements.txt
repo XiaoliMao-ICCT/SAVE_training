@@ -1,0 +1,14 @@
+boto3
+pandas
+numpy
+psycopg2-binary
+movingpandas
+geopandas
+shapely
+geopy
+pyshp
+rtree
+scikit-learn
+holoviews
+matplotlib
+datetime
